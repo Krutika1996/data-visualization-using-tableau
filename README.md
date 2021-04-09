@@ -6,4 +6,4 @@ The three visualization questions that I worked on after exploring data are
 2.	Does the weather affect the accident numbers?  
 3.	What is the severity of accidents in the state with the highest number of accidents?
 
-Detailed Visualization is explained in the report file (US_Car_Accidents.pdf).
+Detailed Visualization is explained in the report file (US_Car_Accidents.pdf) and in an audio file(zoom_0.mp4).
